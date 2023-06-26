@@ -1,0 +1,1 @@
+lsof | grep /var/log/bad.log
